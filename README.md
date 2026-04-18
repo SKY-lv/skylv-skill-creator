@@ -1,13 +1,23 @@
-# skylv-skill-creator
+# Skill Creator
 
-skill creator - OpenClaw Skill
+> skill creator - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-skill-creator
 ```
 
-## Description
-An OpenClaw skill for skill creator.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-skill-creator
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
