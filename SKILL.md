@@ -1,7 +1,7 @@
 ---
 name: skill-creator
 slug: skylv-skill-creator
-version: 1.0.0
+version: 1.0.2
 description: "OpenClaw Skill Generator. Create production-ready OpenClaw Skills from descriptions. Triggers: create skill, build skill, new skill, skill template, OpenClaw skill development."
 author: SKY-lv
 license: MIT
